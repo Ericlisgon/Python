@@ -1,4 +1,4 @@
-#Exercicio de numero 8
+#Exercicio de numero 9
 
 #Analisando a fórmula:
 #Prestação = valor + (valor * (taxa/100) * tempo)
